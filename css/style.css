@@ -122,6 +122,7 @@ h6 {
   border: 2px solid darkgray;
   background-color: whitesmoke;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .popup__list,
